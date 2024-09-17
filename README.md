@@ -1,6 +1,8 @@
 # Projet analyse du prix du SP95 dans le Nord
 Analyse du prix des stations essences (SP95) dans le département du Nord avec le service Bigquery, SQL et Looker Studio
 
+Lien du dashboard : https://lookerstudio.google.com/s/oRtS5FC_ZT4
+
 ## **Quelle est la station essence proposant du sans plomb 95 la moins chère dans le Nord ?**
 
 Étape de réalisation du projet:
